@@ -1,0 +1,33 @@
+{
+  "name": "blog_js2",
+  "version": "1.0.0",
+  "description": "test-blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winncoder/Demo_Blog082023.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs",
+    "testblogpage",
+    "win"
+  ],
+  "author": "wincoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winncoder/Demo_Blog082023/issues"
+  },
+  "homepage": "https://github.com/winncoder/Demo_Blog082023#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  }
+}
